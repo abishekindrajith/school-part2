@@ -1,0 +1,24 @@
+#contact iframe
+{
+    width: 100%;
+    background-color: aquamarine;
+    font-size:19px;
+}
+.avier_maindiv {
+    border: 1px solid rgb(200, 243, 151);
+    padding-left:0px;
+    padding-right:0px;
+    float:none;
+}
+.travel_maindiv img {
+  width:100%;
+}  
+.travel_maindiv hr {
+    width:230px;
+}
+.travel_maindiv h5,.travel_maindiv {
+    margin-left:20px;
+}
+.text- muted{
+font-size:19px;
+}
